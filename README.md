@@ -16,3 +16,9 @@ Flutter学习练手项目
 * 状态共享
 
 ## 预览
+
+![img](https://github.com/wj610671226/FlutterStudy/blob/master/preview_image/live1.gif)
+![img](https://github.com/wj610671226/FlutterStudy/blob/master/preview_image/live2.gif)
+![img](https://github.com/wj610671226/FlutterStudy/blob/master/preview_image/Android20200908-181401.png)
+![img](https://github.com/wj610671226/FlutterStudy/blob/master/preview_image/Android20200908-181455@2x.png)
+![img](https://github.com/wj610671226/FlutterStudy/blob/master/preview_image/Iphone20200908-181840@2x.png)
